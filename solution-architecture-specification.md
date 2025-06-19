@@ -2,6 +2,14 @@
 
 This comprehensive guide walks you through creating a detailed Solution Architecture Specification (SAS) from client requirements using AI-powered tools and structured processes.
 
+## Requirements
+
+- MCP PRODUCT DOCUMENTATION
+
+```
+https://github.com/symphonygroup/mcp-product-documentation
+```
+
 ## Step 1: Extract Technical Requirements from Client Materials
 
 ### Objective
