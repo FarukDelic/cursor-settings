@@ -78,25 +78,7 @@ Review the generated `questions.md` file and provide detailed answers to elimina
 
 ## Step 4: Generate Solution Architecture Specification (SAS)
 
-### Creating Technical Architecture
-
-With a refined PRD in place, generate the technical architecture specification.
-
-**Prompt Template:**
-
-```
-<ATTACH THE REVIEWED PRD DOCUMENT>
-
-<instructions>
-Use MCP Product Documentation to create SAS document based on the PRD. Make sure that you create a questions-sas.md file in documentation folder if you have any questions for me.
-</instructions>
-```
-
-**Expected Deliverables:**
-
-- Comprehensive SAS document
-- Technical architecture diagrams (if applicable)
-- `questions-sas.md` file for technical clarifications
+# NEW GUIDE IN solution-architecture-md file
 
 ## Step 5: Generate Development Tasks
 
