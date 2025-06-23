@@ -89,14 +89,8 @@ Use the following MCP configuration:
       "command": "npx",
       "args": ["-y", "@executeautomation/playwright-mcp-server"]
     },
-    "Framelink Figma MCP": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "figma-developer-mcp",
-        "--figma-api-key=YOUR-API-KEY-HERE",
-        "--stdio"
-      ]
+    "Figma": {
+      "url": "http://127.0.0.1:3845/sse"
     }
   }
 }
