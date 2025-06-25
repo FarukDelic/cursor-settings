@@ -98,15 +98,7 @@ Use the following MCP configuration:
 
 ### Setting Up Symphony Custom MCP Servers
 
-**1. MCP Process Image** _(Requires OpenAI API Key)_
-
-Follow the setup instructions at:
-
-```
-https://github.com/symphonygroup/mcp-process-image
-```
-
-**2. MCP Product Documentation**
+**1. MCP Product Documentation**
 
 Follow the setup instructions at:
 
