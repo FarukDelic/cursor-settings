@@ -87,7 +87,7 @@ Use the following MCP configuration:
     },
     "playwright": {
       "command": "npx",
-      "args": ["-y", "@executeautomation/playwright-mcp-server"]
+      "args": ["@playwright/mcp@latest"]
     },
     "Figma": {
       "url": "http://127.0.0.1:3845/sse"
